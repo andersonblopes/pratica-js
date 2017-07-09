@@ -7,7 +7,7 @@ console.log('Total imposto a pagar: ',totalImposto);
 var valorMercadoria;
 
 /* HOINSTING - O que acontece na prática: Todas as declarações de variáveis 
-são movidas para o inicioo do arquivo:
+são movidas para o inicioo da execução:
 
 1º: var percentualImposto, valorMercadoria, totalImposto;
 2º: percentualImposto = 0.15;
